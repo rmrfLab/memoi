@@ -1,0 +1,8 @@
+- front: "1"
+  back: "one"
+  hstrSum: 20
+  hstrCrct: 10
+- front: "2"
+  back: "two"
+  hstrSum: 20
+  hstrCrct: 5
